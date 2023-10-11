@@ -64,7 +64,7 @@ Open your GitHub client and RStudio. In RStudio, open the project associated wit
 
 <!--# INSTRUCTOR ACTION: upload this activity .qmd file into a directory called class-activity on each group's repository -->
 
-## Basic Git actions
+## Basic Git actions  
 
 Here you'll make a local change and then push that change to the remote repository.
 
@@ -233,7 +233,6 @@ Here you'll create an artificial merge conflict to see what this looks like and 
 ## Action (group)
 
 **Create a merge conflict**
-
 
 1.  Have someone in your team open the README file and add the group members' names in a list on one line, *e.g.*,
 

@@ -3,4 +3,6 @@
 
 template repo for class activity on git and github in pstat197a
 
+Group member: Shuai Yuan, Junyi Fu, Haoran Yan.
+
 updated october 2023
